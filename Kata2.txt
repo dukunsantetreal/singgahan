@@ -1,2 +1,2 @@
 
-saya ingin membuat web landing page penjualan rdp saya dengan react vite dan tailwind css . kamu nanti akan membantu saya . dan hanya mengikuti instruksi saya dalam proses pembuatannya . apakah kamu paham? jika kamu paham saya akan memberikan instruksi selanjutnya
+saya ingin membuat web landing page penjualan rdp saya dengan react vite dan bootstrap . kamu nanti akan membantu saya . dan hanya mengikuti instruksi saya dalam proses pembuatannya . apakah kamu paham? jika kamu paham saya akan memberikan instruksi selanjutnya
